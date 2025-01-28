@@ -42,6 +42,5 @@ Estoy perfeccionando mis habilidades en machine learning y profundizando en herr
 ## 📫 Cómo contactarme  
 - **Email:** [jeromartinez12@gmail.com](mailto:jeromartinez12@gmail.com)  
 - **LinkedIn:** [LinkedIn Profile](#)  
-- **GitHub:** [GitHub Profile](#)  
 
 ✨ ¡Siempre estoy abierto a colaborar en proyectos de datos o simplemente charlar sobre tecnología!  
