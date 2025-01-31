@@ -9,7 +9,9 @@ Comencé mi camino en el bootcamp de **Henry**, donde desarrollé proyectos que 
 Actualmente diseño y construyo proyectos que abordan:  
 - **Análisis de grandes volúmenes de datos.**  
 - **Desarrollo de soluciones personalizadas** utilizando machine learning.  
-- **Visualización avanzada** para obtener insights clave.  
+- **Visualización avanzada** para obtener insights clave.
+
+Vale aclarar que en cuanto el trabajo colaborativo y en equipo me gusta trabajar con la metodología Scrum, la cual es clave para el liderazgo y eficacia de un proyecto en el tiempo. 
 
 ## 🚀 ¿A dónde me dirijo?  
 Mi objetivo es transformar datos en información útil para la toma de decisiones y contribuir a proyectos que impacten de manera positiva a través de la tecnología.  
