@@ -43,6 +43,7 @@ Mi objetivo es transformar datos en información útil para la toma de decisione
 
 ## 🌱 Actualmente aprendiendo...  
 Estoy perfeccionando mis habilidades en machine learning y profundizando en herramientas de visualización avanzadas.  
+Empenzando a estudiar la certificación PMP de Project Manager; interiorizandome en tensorflow.
 
 ## 📫 Cómo contactarme  
 - **Email:** [jeromartinez12@gmail.com](mailto:jeromartinez12@gmail.com)  
