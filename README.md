@@ -36,7 +36,10 @@ Mi objetivo es transformar datos en información útil para la toma de decisione
    Proyecto final en equipo, incluyendo análisis de datos, modelo predictivo y visualización avanzada.  
 
 4. **HenryP1: Recomendaciones de películas:**  
-   Análisis estadístico, visualización y preparación de reportes ejecutivos.  
+   Análisis estadístico, visualización y preparación de reportes ejecutivos.
+
+5. **DolarHoy**: Visualización de los tipos de dolar en streamlit.
+   Scraping con datos fundamentales o noticias y modelo predictivo del precio utilizando arima, conversión de valores. 
 
 ## 🌱 Actualmente aprendiendo...  
 Estoy perfeccionando mis habilidades en machine learning y profundizando en herramientas de visualización avanzadas.  
