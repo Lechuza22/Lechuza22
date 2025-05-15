@@ -1,52 +1,73 @@
-# 👋 Hola, soy **Jerónimo Martínez**  
+# 👋 Hola, soy Jerónimo Martínez
 
-## ¿Quién soy?  
-Soy un **Data Scientist** apasionado por el análisis de datos, machine learning y la visualización de información. Mi trayectoria en el mundo de los datos está impulsada por la curiosidad y el deseo de encontrar soluciones innovadoras a problemas complejos a través del análisis y la programación.  
+## ¿Quién soy?
+Soy **Data Scientist** con fuerte enfoque en el diseño de soluciones inteligentes a partir del análisis de datos, machine learning y procesamiento del lenguaje natural. Mi recorrido combina pensamiento lógico, experiencia en educación y pasión por transformar datos en decisiones reales.
 
-Comencé mi camino en el bootcamp de **Henry**, donde desarrollé proyectos que abarcan desde análisis exploratorio hasta modelos predictivos y aplicaciones interactivas.  
+Me formé en el bootcamp de **Henry**, donde desarrollé proyectos de EDA, modelos predictivos, sistemas de recomendación y dashboards interactivos. Desde entonces, vengo perfeccionando mis habilidades en el desarrollo de arquitecturas completas que integran recuperación de información, clasificación automatizada y modelos generativos (LLMs).
 
-## 🌟 ¿Qué hago?  
-Actualmente diseño y construyo proyectos que abordan:  
-- **Análisis de grandes volúmenes de datos.**  
-- **Desarrollo de soluciones personalizadas** utilizando machine learning.  
-- **Visualización avanzada** para obtener insights clave.
+---
 
-Vale aclarar que en cuanto el trabajo colaborativo y en equipo me gusta trabajar con la metodología Scrum, la cual es clave para el liderazgo y eficacia de un proyecto en el tiempo. 
+## 🌟 ¿Qué hago?
 
-## 🚀 ¿A dónde me dirijo?  
-Mi objetivo es transformar datos en información útil para la toma de decisiones y contribuir a proyectos que impacten de manera positiva a través de la tecnología.  
+Actualmente diseño y construyo soluciones que integran:
+- Procesamiento de documentos y recuperación semántica (FAISS + embeddings)
+- Clasificación automática con modelos entrenados (scikit-learn)
+- Generación de respuestas con **LLMs como Gemini 1.5**
+- Orquestación de pipelines con **LangChain**, YAML y flujos dinámicos
+- Dashboards e interfaces de consulta con **Streamlit** y APIs REST
+- Proyectos colaborativos siguiendo la metodología **Scrum**
 
-## 🛠️ Tecnologías y herramientas que utilizo  
-- **Lenguajes:** Python, SQL  
-- **Librerías y frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Plotly, Streamlit  
-- **Bases de datos:** PostgreSQL  
-- **Nube:** Google Cloud, AWS (Cloud Practitioner)  
-- **Visualización de datos:** Power BI, Tableau  
-- **Herramientas de desarrollo:** Git, Jupyter Notebook  
-- **Conocimientos adicionales:** EDA (Exploratory Data Analysis), machine learning, estadística aplicada  
+---
 
-## 🏆 Proyectos destacados  
-1. **Proyecto Taxi NYC:**  
-   Análisis de datos de taxis en Nueva York con transformaciones, limpieza y visualización.  
+## 🚀 ¿A dónde me dirijo?
 
-2. **HenryP2: Telecomunicaciones:**  
-   Exploración de datos y creación de dashboards interactivos para insights clave.  
+Apunto a aplicar inteligencia artificial en soluciones empresariales, educativas y de automatización. Busco contribuir a proyectos que generen impacto real combinando datos, tecnología y pensamiento estratégico. Actualmente me estoy interiorizando también en **gestión de proyectos (PMP)**.
 
-3. **Proyecto Integrador - Airbnb:**  
-   Proyecto final en equipo, incluyendo análisis de datos, modelo predictivo y visualización avanzada.  
+---
 
-4. **HenryP1: Recomendaciones de películas:**  
-   Análisis estadístico, visualización y preparación de reportes ejecutivos.
+## 🛠️ Tecnologías y herramientas
 
-5. **Cotizaciones financieras.Ar:** Visualización de los tipos de dolar en streamlit.
-   Scraping con datos fundamentales o noticias y modelo predictivo del precio utilizando arima, conversión de valores. 
+**Lenguajes:** Python, SQL  
+**Frameworks ML/NLP:** scikit-learn, TensorFlow, LangChain, Hugging Face  
+**Visualización:** Streamlit, Plotly, Power BI, Tableau, Matplotlib  
+**Machine Learning:** Modelos supervisados y no supervisados, NLP, embeddings, ARIMA  
+**Nube:** Google Cloud, AWS (certificación Cloud Practitioner en curso)  
+**Bases de datos:** PostgreSQL  
+**Dev tools:** Git, Jupyter, VSCode, APIs, YAML, Bash
 
-## 🌱 Actualmente aprendiendo...  
-Estoy perfeccionando mis habilidades en machine learning y profundizando en herramientas de visualización avanzadas.  
-Empenzando a estudiar la certificación PMP de Project Manager; interiorizandome en tensorflow.
+---
 
-## 📫 Cómo contactarme  
-- **Email:** [jeromartinez12@gmail.com](mailto:jeromartinez12@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/jeromartinez12/](#) 
+## 🏆 Proyectos destacados
 
-✨ ¡Siempre estoy abierto a colaborar en proyectos de datos o simplemente charlar sobre tecnología!  
+**🔹 LLM Categorizer**  
+Asistente inteligente que responde preguntas sobre documentos propios. Combina FAISS, clasificación automática, YAML-driven orchestration y Gemini para generar respuestas contextualizadas.
+
+**🔹 CotizacionesFinancieras.ar**  
+App con scraping y visualización de tipos de cambio, datos macroeconómicos y modelo ARIMA para predicción del dólar.
+
+**🔹 Proyecto Integrador Airbnb (Henry)**  
+Modelado predictivo y análisis exploratorio en equipo para optimización de precios de alojamiento.
+
+**🔹 Sistema de Recomendación de Películas**  
+Análisis estadístico, clustering, visualización y recomendación basada en preferencias del usuario.
+
+**🔹 NYC Taxi Analysis**  
+Limpieza, transformación y visualización avanzada de viajes de taxi en Nueva York.
+
+---
+
+## 🌱 Actualmente aprendiendo...
+
+- Desarrollo de soluciones NLP con **LangChain** y modelos generativos
+- Certificación PMP y gestión de proyectos con metodologías ágiles
+- TensorFlow aplicado a casos de visión e interpretación de texto
+
+---
+
+## 📫 Contacto
+
+- **Email:** jeromartinez12@gmail.com  
+- **LinkedIn:** [linkedin.com/in/jeromartinez12](https://www.linkedin.com/in/jeromartinez12/)  
+
+✨ ¡Siempre abierto a colaborar en proyectos de datos, IA o hablar sobre tecnología y educación!
+
