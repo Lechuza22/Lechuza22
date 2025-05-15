@@ -27,7 +27,7 @@ Apunto a aplicar inteligencia artificial en soluciones empresariales, educativas
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes:** Python, SQL  
+**Lenguajes:** Python, SQL, R
 **Frameworks ML/NLP:** scikit-learn, TensorFlow, LangChain, Hugging Face  
 **Visualización:** Streamlit, Plotly, Power BI, Tableau, Matplotlib  
 **Machine Learning:** Modelos supervisados y no supervisados, NLP, embeddings, ARIMA  
