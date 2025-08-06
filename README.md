@@ -1,73 +1,72 @@
-# 👋 Hola, soy Jerónimo Martínez
+# 👋 Hi, I'm Jerónimo Martínez
 
-## ¿Quién soy?
-Soy **Data Scientist** con fuerte enfoque en el diseño de soluciones inteligentes a partir del análisis de datos, machine learning y procesamiento del lenguaje natural. Mi recorrido combina pensamiento lógico, experiencia en educación y pasión por transformar datos en decisiones reales.
+## Who am I?  
+I'm a **Data Scientist** with a strong focus on designing intelligent solutions through data analysis, machine learning, and natural language processing. My background combines logical thinking, experience in education, and a passion for turning data into real-world decisions.
 
-Me formé en el bootcamp de **Henry**, donde desarrollé proyectos de EDA, modelos predictivos, sistemas de recomendación y dashboards interactivos. Desde entonces, vengo perfeccionando mis habilidades en el desarrollo de arquitecturas completas que integran recuperación de información, clasificación automatizada y modelos generativos (LLMs).
-
----
-
-## 🌟 ¿Qué hago?
-
-Actualmente diseño y construyo soluciones que integran:
-- Procesamiento de documentos y recuperación semántica (FAISS + embeddings)
-- Clasificación automática con modelos entrenados (scikit-learn)
-- Generación de respuestas con **LLMs como Gemini 1.5**
-- Orquestación de pipelines con **LangChain**, YAML y flujos dinámicos
-- Dashboards e interfaces de consulta con **Streamlit** y APIs REST
-- Proyectos colaborativos siguiendo la metodología **Scrum**
+I trained at the **Henry** bootcamp, where I developed projects involving EDA, predictive models, recommendation systems, and interactive dashboards. Since then, I've been refining my skills in building complete architectures that integrate information retrieval, automated classification, and generative models (LLMs).
 
 ---
 
-## 🚀 ¿A dónde me dirijo?
+## 🌟 What do I do?
 
-Apunto a aplicar inteligencia artificial en soluciones empresariales, educativas y de automatización. Busco contribuir a proyectos que generen impacto real combinando datos, tecnología y pensamiento estratégico. Actualmente me estoy interiorizando también en **gestión de proyectos (PMP)**.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-**Lenguajes:** Python, SQL, R
-**Frameworks ML/NLP:** scikit-learn, TensorFlow, LangChain, Hugging Face  
-**Visualización:** Streamlit, Plotly, Power BI, Tableau, Matplotlib  
-**Machine Learning:** Modelos supervisados y no supervisados, NLP, embeddings, ARIMA  
-**Nube:** Google Cloud, AWS (certificación Cloud Practitioner en curso)  
-**Bases de datos:** PostgreSQL  
-**Dev tools:** Git, Jupyter, VSCode, APIs, YAML, Bash
+I'm currently designing and building solutions that integrate:
+- Document processing and semantic retrieval (FAISS + embeddings)  
+- Automated classification with trained models (scikit-learn)  
+- Answer generation using **LLMs like Gemini 1.5**  
+- Pipeline orchestration using **LangChain**, YAML, and dynamic workflows  
+- Dashboards and query interfaces using **Streamlit** and REST APIs  
+- Collaborative projects following the **Scrum methodology**
 
 ---
 
-## 🏆 Proyectos destacados
+## 🚀 Where am I headed?
+
+I'm aiming to apply artificial intelligence in business, education, and automation solutions. I seek to contribute to projects that create real impact by combining data, technology, and strategic thinking. I'm also currently diving into **project management (PMP)**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, SQL, R  
+**ML/NLP Frameworks:** scikit-learn, TensorFlow, LangChain, Hugging Face  
+**Visualization:** Streamlit, Plotly, Power BI, Tableau, Matplotlib  
+**Machine Learning:** Supervised & unsupervised models, NLP, embeddings, ARIMA  
+**Cloud:** Google Cloud, AWS (Cloud Practitioner certification in progress)  
+**Databases:** PostgreSQL  
+**Dev Tools:** Git, Jupyter, VSCode, APIs, YAML, Bash
+
+---
+
+## 🏆 Highlighted Projects
 
 **🔹 LLM Categorizer**  
-Asistente inteligente que responde preguntas sobre documentos propios. Combina FAISS, clasificación automática, YAML-driven orchestration y Gemini para generar respuestas contextualizadas.
+Intelligent assistant that answers questions about custom documents. Combines FAISS, automatic classification, YAML-driven orchestration, and Gemini for contextualized responses.
 
 **🔹 CotizacionesFinancieras.ar**  
-App con scraping y visualización de tipos de cambio, datos macroeconómicos y modelo ARIMA para predicción del dólar.
+App with scraping and visualization of exchange rates, macroeconomic data, and an ARIMA model for dollar price prediction.
 
-**🔹 Proyecto Integrador Airbnb (Henry)**  
-Modelado predictivo y análisis exploratorio en equipo para optimización de precios de alojamiento.
+**🔹 Airbnb Capstone Project (Henry)**  
+Team-based exploratory analysis and predictive modeling for lodging price optimization.
 
-**🔹 Sistema de Recomendación de Películas**  
-Análisis estadístico, clustering, visualización y recomendación basada en preferencias del usuario.
+**🔹 Movie Recommendation System**  
+Statistical analysis, clustering, visualization, and preference-based recommendations.
 
 **🔹 NYC Taxi Analysis**  
-Limpieza, transformación y visualización avanzada de viajes de taxi en Nueva York.
+Cleaning, transforming, and advanced visualization of New York City taxi rides.
 
 ---
 
-## 🌱 Actualmente aprendiendo...
+## 🌱 Currently Learning...
 
-- Desarrollo de soluciones NLP con **LangChain** y modelos generativos
-- Certificación PMP y gestión de proyectos con metodologías ágiles
-- TensorFlow aplicado a casos de visión e interpretación de texto
+- NLP solutions with **LangChain** and generative models  
+- PMP certification and agile project management  
+- TensorFlow applied to vision and text interpretation use cases
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - **Email:** jeromartinez12@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jeromartinez12](https://www.linkedin.com/in/jeromartinez12/)  
 
-✨ ¡Siempre abierto a colaborar en proyectos de datos, IA o hablar sobre tecnología y educación!
-
+✨ Always open to collaborating on data, AI projects, or chatting about tech and education!
