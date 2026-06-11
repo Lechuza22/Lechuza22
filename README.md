@@ -1,72 +1,102 @@
-# 👋 Hi, I'm Jerónimo Martínez
+<div align="center">
 
-## Who am I?  
-I'm a **Data Scientist** with a strong focus on designing intelligent solutions through data analysis, machine learning, and natural language processing. My background combines logical thinking, experience in education, and a passion for turning data into real-world decisions.
+# Jerónimo Martínez
 
-I trained at the **Henry** bootcamp, where I developed projects involving EDA, predictive models, recommendation systems, and interactive dashboards. Since then, I've been refining my skills in building complete architectures that integrate information retrieval, automated classification, and generative models (LLMs).
+### AI Engineer · Data Scientist
 
----
+*Building production AI systems — from LLM pipelines to cloud data products*
 
-## 🌟 What do I do?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeromartinez12)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jeromartinez12@gmail.com)
 
-I'm currently designing and building solutions that integrate:
-- Document processing and semantic retrieval (FAISS + embeddings)  
-- Automated classification with trained models (scikit-learn)  
-- Answer generation using **LLMs like Gemini 1.5**  
-- Pipeline orchestration using **LangChain**, YAML, and dynamic workflows  
-- Dashboards and query interfaces using **Streamlit** and REST APIs  
-- Collaborative projects following the **Scrum methodology**
+</div>
 
 ---
 
-## 🚀 Where am I headed?
+## About me
 
-I'm aiming to apply artificial intelligence in business, education, and automation solutions. I seek to contribute to projects that create real impact by combining data, technology, and strategic thinking. I'm also currently diving into **project management (PMP)**.
+I design and ship AI-powered systems end-to-end — from model integration and API design to cloud deployment and data visualization. My background is in data science; my current focus is **LLM engineering**: building applications where language models extract, classify, and reason over real business data.
 
----
-
-## 🛠️ Technologies & Tools
-
-**Languages:** Python, SQL, R  
-**ML/NLP Frameworks:** scikit-learn, TensorFlow, LangChain, Hugging Face  
-**Visualization:** Streamlit, Plotly, Power BI, Tableau, Matplotlib  
-**Machine Learning:** Supervised & unsupervised models, NLP, embeddings, ARIMA  
-**Cloud:** Google Cloud, AWS (Cloud Practitioner certification in progress)  
-**Databases:** PostgreSQL  
-**Dev Tools:** Git, Jupyter, VSCode, APIs, YAML, Bash
+Working at the intersection of **AI engineering** and **data products**, I integrate Claude's API, Google Cloud Platform, and modern data stacks to automate workflows that used to require manual analyst work.
 
 ---
 
-## 🏆 Highlighted Projects
+## Tech Stack
 
-**🔹 LLM Categorizer**  
-Intelligent assistant that answers questions about custom documents. Combines FAISS, automatic classification, YAML-driven orchestration, and Gemini for contextualized responses.
+**AI / LLM**
 
-**🔹 CotizacionesFinancieras.ar**  
-App with scraping and visualization of exchange rates, macroeconomic data, and an ARIMA model for dollar price prediction.
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**🔹 Airbnb Capstone Project (Henry)**  
-Team-based exploratory analysis and predictive modeling for lodging price optimization.
+**Cloud — Google Cloud Platform**
 
-**🔹 Movie Recommendation System**  
-Statistical analysis, clustering, visualization, and preference-based recommendations.
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-**🔹 NYC Taxi Analysis**  
-Cleaning, transforming, and advanced visualization of New York City taxi rides.
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Frontend & Integrations**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning...
+## Certifications
 
-- NLP solutions with **LangChain** and generative models  
-- PMP certification and agile project management  
-- TensorFlow applied to vision and text interpretation use cases
+| Certification | Issuer |
+|---|---|
+| **Build with Claude** | Anthropic |
 
 ---
 
-## 📫 Contact
+## Featured Projects
 
-- **Email:** jeromartinez12@gmail.com  
-- **LinkedIn:** [linkedin.com/in/jeromartinez12](https://www.linkedin.com/in/jeromartinez12/)  
+### CometaDataImport
+> Internal KPI ingestion app for a VC firm managing 26 portfolio companies
 
-✨ Always open to collaborating on data, AI projects, or chatting about tech and education!
+End-to-end system that replaces manual spreadsheet work: reads financial reports from Gmail, extracts structured metrics with Claude using `tool_use`, deduplicates across multiple attachments, and loads into Airtable — with full audit trail and an editable pivot table view.
+
+`Python` `Streamlit` `Claude API` `Gmail API` `Airtable` `Google OAuth 2.0`
+
+---
+
+### CotizacionesFinancieras.ar
+> Real-time financial quotes platform for the Argentine market
+
+Scraping pipeline, macroeconomic data visualization, and ARIMA model for USD price prediction.
+
+`Python` `Streamlit` `Scraping` `ARIMA` `Plotly`
+
+---
+
+### LLM Document Categorizer
+> RAG-based assistant for custom document Q&A
+
+Combines FAISS semantic search, automated classification, and LLM generation for contextualized answers over private document corpora.
+
+`Python` `LangChain` `FAISS` `Embeddings` `Streamlit`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lechuza22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuza22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaborations on AI engineering, data products, and LLM applications</sub>
+</div>
