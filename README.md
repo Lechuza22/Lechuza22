@@ -52,6 +52,12 @@ My current focus is **LLM engineering**: building applications where language mo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+**Mobile & Cross-platform**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+
 **Visualization & BI**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -62,6 +68,7 @@ My current focus is **LLM engineering**: building applications where language mo
 
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -92,6 +99,20 @@ End-to-end system that replaces manual spreadsheet work: reads financial reports
 Scraping pipeline, macroeconomic data visualization, and ARIMA model for USD price prediction.
 
 `Python` `Streamlit` `Scraping` `ARIMA` `Plotly`
+
+---
+
+### Flo — Personal Habits App
+> Cross-platform mobile app for daily habit tracking (iOS, Android, macOS, web)
+
+Personal app that unifies health, fitness, study, and schedule tracking in one place. Integrates Claude API to generate weekly meal ideas and workout suggestions based on the user's stored data. Built on Flutter with Firebase as the backend — no custom server required.
+
+- Firebase Authentication (Google login), Cloud Firestore (NoSQL, per-user data)
+- Riverpod for reactive state management across screens
+- Serialization workaround for Firestore's nested-array limitation
+- CORS-aware Claude API integration (mobile path only)
+
+`Flutter` `Dart` `Firebase` `Firestore` `Riverpod` `Claude API`
 
 ---
 
