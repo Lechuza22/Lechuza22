@@ -15,9 +15,9 @@
 
 ## About me
 
-I design and ship AI-powered systems end-to-end — from model integration and API design to cloud deployment and data visualization. My background is in data science; my current focus is **LLM engineering**: building applications where language models extract, classify, and reason over real business data.
+I design and ship AI-powered systems end-to-end — from model integration and API design to cloud deployment and data visualization. My background combines data science, cloud engineering, and a degree in **Educational Organization & Management** (Universidad Austral) — which shapes how I approach designing systems that are actually used by people.
 
-Working at the intersection of **AI engineering** and **data products**, I integrate Claude's API, Google Cloud Platform, and modern data stacks to automate workflows that used to require manual analyst work.
+My current focus is **LLM engineering**: building applications where language models extract, classify, and reason over real business data. I work at the intersection of AI engineering and data products, integrating Claude, Gemini, Google Cloud, and AWS to automate workflows that used to require manual analyst work.
 
 ---
 
@@ -26,6 +26,7 @@ Working at the intersection of **AI engineering** and **data products**, I integ
 **AI / LLM**
 
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
@@ -33,29 +34,44 @@ Working at the intersection of **AI engineering** and **data products**, I integ
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+
+**Cloud — AWS**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 
 **Data & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Frontend & Integrations**
+**Visualization & BI**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Integrations**
+
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
-## Certifications
+## Certifications & Education
 
-| Certification | Issuer |
-|---|---|
-| **Build with Claude** | Anthropic |
+| | | Issuer | Year |
+|---|---|---|---|
+| 🏅 | **Build with Claude** | Anthropic | 2025 |
+| 🎓 | **Data Scientist** | Henry | 2023 |
+| 📖 | **Lic. Organización y Gestión Educativa** | Universidad Austral | — |
 
 ---
 
@@ -84,7 +100,7 @@ Scraping pipeline, macroeconomic data visualization, and ARIMA model for USD pri
 
 Combines FAISS semantic search, automated classification, and LLM generation for contextualized answers over private document corpora.
 
-`Python` `LangChain` `FAISS` `Embeddings` `Streamlit`
+`Python` `LangChain` `FAISS` `Gemini` `Streamlit`
 
 ---
 
