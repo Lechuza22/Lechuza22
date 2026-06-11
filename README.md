@@ -67,11 +67,11 @@ My current focus is **LLM engineering**: building applications where language mo
 
 ## Certifications & Education
 
-| | | Issuer | Year |
-|---|---|---|---|
-| 🏅 | **Build with Claude** | Anthropic | 2025 |
-| 🎓 | **Data Scientist** | Henry | 2023 |
-| 📖 | **Lic. Organización y Gestión Educativa** | Universidad Austral | — |
+| | Issuer | Year |
+|---|---|---|
+| **Build with Claude** | Anthropic | 2025 |
+| **Data Scientist** | Henry | 2023 |
+| **Lic. Organización y Gestión Educativa** | Universidad Austral | 2019 |
 
 ---
 
