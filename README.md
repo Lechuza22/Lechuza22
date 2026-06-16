@@ -37,6 +37,7 @@ My current focus is **LLM engineering**: building applications where language mo
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Cloud — AWS & Deployment**
 
@@ -86,11 +87,11 @@ My current focus is **LLM engineering**: building applications where language mo
 ## Featured Projects
 
 ### CometaDataImport
-> Internal KPI ingestion app for a VC firm managing 26 portfolio companies
+> Internal KPI ingestion app for a VC firm managing 26 portfolio companies — live in production on Cloud Run
 
-End-to-end system that replaces manual spreadsheet work: reads financial reports from Gmail, extracts structured metrics with Claude using `tool_use`, deduplicates across multiple attachments, and loads into Airtable — with full audit trail and an editable pivot table view.
+End-to-end system that replaces manual spreadsheet work: reads financial reports from Gmail, extracts structured metrics with Claude using `tool_use`, deduplicates across multiple attachments, and loads into Airtable — with full audit trail and an editable pivot table view. Containerized and deployed on Google Cloud Run, authenticated via Google OAuth with org-level access control.
 
-`Python` `Streamlit` `Claude API` `Gmail API` `Airtable` `Google OAuth 2.0`
+`Python` `Streamlit` `Claude API` `Gmail API` `Airtable` `Google OAuth 2.0` `Docker` `Google Cloud Run`
 
 ---
 
