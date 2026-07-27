@@ -4,7 +4,7 @@
 
 ### AI Engineer · Data Scientist
 
-*Building production AI systems — from LLM pipelines to cloud data products*
+*Building production AI systems — from LLM agents and computer vision to cloud data products*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeromartinez12)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jeromartinez12@gmail.com)
@@ -29,6 +29,14 @@ My current focus is **LLM engineering**: building applications where language mo
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**Computer Vision**
+
+![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Cloud — Google Cloud Platform**
 
@@ -92,6 +100,24 @@ My current focus is **LLM engineering**: building applications where language mo
 End-to-end system that replaces manual spreadsheet work: reads financial reports from Gmail, extracts structured metrics with Claude using `tool_use`, deduplicates across multiple attachments, and loads into Airtable — with full audit trail and an editable pivot table view. Containerized and deployed on Google Cloud Run, authenticated via Google OAuth with org-level access control.
 
 `Python` `Streamlit` `Claude API` `Gmail API` `Airtable` `Google OAuth 2.0` `Docker` `Google Cloud Run`
+
+---
+
+### AgenteCode
+> Local-first coding agent (Claude Code–style) running entirely on open-weight models via Ollama
+
+Built a minimal agentic tool-use loop from scratch: a REPL where the model calls `read_file`/`edit_file`/`write_file`/`grep`/`run_bash` with tiered permissions, path jailing, diff-based confirmation before every write, and automatic backups. Ships with a 12-case benchmark suite with automated verification, used as a regression harness — every change to the model, system prompt, or tool schema gets re-validated against it before shipping.
+
+`Python` `Ollama` `Agentic tool-use loops` `REPL design`
+
+---
+
+### PincenBalanza
+> Computer vision pipeline for retail self-checkout — real-time product detection
+
+End-to-end YOLOv8 object detection system built from scratch to identify products placed on a self-checkout scale. Covers the full pipeline: dataset ingestion and QA (structural validation, near-duplicate detection via perceptual hashing, class balance checks), precise polygon-based product cutouts, synthetic data generation (background compositing with lighting/shadow augmentation to close the sim-to-real gap), configurable multi-experiment training, and a Gradio interface for live model testing.
+
+`Python` `YOLOv8` `Ultralytics` `OpenCV` `Roboflow` `Gradio`
 
 ---
 
