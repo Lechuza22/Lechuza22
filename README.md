@@ -36,6 +36,7 @@ My current focus is **LLM engineering**: building applications where language mo
 ![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=yolo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
+![Label Studio](https://img.shields.io/badge/Label_Studio-000000?style=flat&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Cloud — Google Cloud Platform**
