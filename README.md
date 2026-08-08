@@ -115,9 +115,9 @@ Built a minimal agentic tool-use loop from scratch: a REPL where the model calls
 ### PincenBalanza
 > Computer vision pipeline for retail self-checkout — real-time product detection
 
-End-to-end YOLOv8 object detection system built from scratch to identify products placed on a self-checkout scale. Covers the full pipeline: dataset ingestion and QA (structural validation, near-duplicate detection via perceptual hashing, class balance checks), precise polygon-based product cutouts, synthetic data generation (background compositing with lighting/shadow augmentation to close the sim-to-real gap), configurable multi-experiment training, and a Gradio interface for live model testing.
+End-to-end YOLOv8 object detection system built from scratch to identify products placed on a self-checkout scale, already exported to TFLite and deployed. Covers the full pipeline: dataset ingestion and QA (structural validation, near-duplicate detection via perceptual hashing, class balance checks), precise polygon-based product cutouts, synthetic data generation (background compositing with lighting/shadow augmentation to close the sim-to-real gap), configurable multi-experiment training, and a Gradio interface for live model testing. Now scaling the label pipeline itself: a self-hosted Label Studio setup complements the cloud-based annotation tool, feeding a unified training pipeline as the product catalog grows.
 
-`Python` `YOLOv8` `Ultralytics` `OpenCV` `Roboflow` `Gradio`
+`Python` `YOLOv8` `Ultralytics` `OpenCV` `Roboflow` `Label Studio` `Gradio` `TensorFlow Lite`
 
 ---
 
